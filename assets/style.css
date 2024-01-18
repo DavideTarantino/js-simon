@@ -1,0 +1,12 @@
+main{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 3%;
+}
+
+#countdown{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
